@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <br>
 <!--![Riya's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Riyakumari57&theme=xcode) -->
 <p align ="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari57&theme=black-ice" />
+  <!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari57&theme=black-ice" /> -->
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NirmalSilwal&theme=blue-green)](https://git.io/streak-stats)
   </p>
    
 <br>
