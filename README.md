@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/riya-kumari-b439911b3/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp;
 - 😄 Pronouns: She/her
+![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1)
 <!--
 - ⚡ Fun fact: ...
 -->
