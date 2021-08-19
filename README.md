@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - </br>
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1) -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Riyakumari57" alt="Riyakumari57" /> </p>
+<
 <!--
 - ⚡ Fun fact: ...
 -->
