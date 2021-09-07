@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on coding skills.
-- 🌱 I’m currently learning ...<b style="color:red;">React.js</b>.
+ 🔭 I’m currently working on <b>coding skills</b>.
+- 🌱 I’m currently learning ...<b>React.js</b>.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
