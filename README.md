@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1) -->
 
 <!-- <a href=#><img src="contributions.svg"></a> -->
+![snake gif](https://github.com/Riyakumari57/Riyakumari57/blob/output/github-contribution-grid-snake.gif)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Riyakumari57/count.svg" />
