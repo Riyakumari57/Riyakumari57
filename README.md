@@ -2,8 +2,7 @@
 ### Profile :octocat:
 ### Hi there , I'm Riya🌼 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Riyakumari57
-&label=Profile%20views&color=0e75b6&style=flat" alt="Riyakumari57
-" /> </p>
+&label=Profile%20views&color=0e75b6&style=flat" alt="Riyakumari57" /> </p>
 <!--
 **Riyakumari57/Riyakumari57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
