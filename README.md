@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-![Riya's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Riyakumari57&theme=xcode)
+![](https://activity-graph.herokuapp.com/graph?username=Riyakumari57&theme=xcode)
 <p align ="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari57&theme=black-ice" /> 
   </p>
