@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her -->
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1) -->
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
 
 <p align="center"> 
   Visitor count<br>
