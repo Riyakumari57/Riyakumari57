@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <p align ="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari57&theme=black-ice" /> 
   </p>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Riyakumari57
-&label=Profile%20views&color=0e75b6&style=flat" alt="Riyakumari57" /> </p>
+<!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=Riyakumari57
+&label=Profile%20views&color=0e75b6&style=flat" alt="Riyakumari57" /> </p> -->
    
 <br>
 <hr>
