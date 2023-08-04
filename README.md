@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Passionate about writing code, solving problems, and building Web Pages.
-<!--- 🎓 &nbsp; Studying B.Tech in Information Technology at Poornima College of Engineering, Jaipur. -->
 - 💼 &nbsp; I’m looking for a Frontend Web developer role.
 - 🌱 &nbsp; Learning more about Frontend web development using ReactJS.
 
