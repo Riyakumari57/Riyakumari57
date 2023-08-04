@@ -17,11 +17,60 @@ Here are some ideas to get you started:
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1) -->
 
 <!-- <a href=#><img src="contributions.svg"></a> -->
-![snake gif](https://github.com/Riyakumari57/Riyakumari57/blob/output/github-contribution-grid-snake.svg)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Riyakumari57/count.svg" />
-</p>
+
+ <!--- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+    ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+ ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+ - 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+-->
+
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Passionate about writing code, solving problems, and building Web Pages.
+<!--- 🎓 &nbsp; Studying B.Tech in Information Technology at Poornima College of Engineering, Jaipur. -->
+- 💼 &nbsp; I’m looking for a Frontend Web developer role.
+- 🌱 &nbsp; Learning more about Frontend web development using ReactJS.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<!--![snake gif](https://github.com/Riyakumari57/Riyakumari57/blob/output/github-contribution-grid-snake.svg)-->
+<!---<p align="center">  -->
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/Riyakumari57/count.svg" /> -->
+<!-- </p> -->
 
 
 <!--
