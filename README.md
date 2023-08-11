@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
-
-<!--![snake gif](https://github.com/Riyakumari57/Riyakumari57/blob/output/github-contribution-grid-snake.svg)-->
 <!---<p align="center">  -->
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/Riyakumari57/count.svg" /> -->
