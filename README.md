@@ -1,7 +1,7 @@
 <!--### Hi there 👋, I'm Riya🌼 -->
 ### Profile :octocat:
 <!--### Hi there , I'm Riya🌼 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.-->
-<img src="https://github.com/Riyakumari57/Riyakumari57/blob/main/Github%20banner.png" alt="banner that says Riya Kumari - Frontend Web develope">
+<img src="https://github.com/Riyakumari57/Riyakumari57/blob/main/Profile%20banner.png" alt="banner that says Riya Kumari - Frontend Web develope">
 
 <!--
 **Riyakumari57/Riyakumari57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
