@@ -1,6 +1,6 @@
 <!--### Hi there 👋, I'm Riya🌼 -->
 ### Profile :octocat:
-### Hi there , I'm Riya🌼 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
+<!--### Hi there , I'm Riya🌼 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.-->
 <img src="https://github.com/Riyakumari57/Riyakumari57/blob/main/Banner.png" alt="banner that says Riya Kumari - Frontend Web develope">
 
 <!--
