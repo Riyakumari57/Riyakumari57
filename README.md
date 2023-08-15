@@ -75,9 +75,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=Riyakumari57&show_icons=true&theme=radical"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyakumari57&show_icons=true&theme=radical" /></p>
+<a href="https://github-readme-stats.vercel.app/api?username=Riyakumari57&show_icons=true&theme=radical"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyakumari57&show_icons=true&theme=radical" />
 </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakumari57&langs_count=10&theme=radical"> -->
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakumari57&langs_count=10&theme=radical"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakumari57&langs_count=20&theme=radical" />
 </a>
 <br>
