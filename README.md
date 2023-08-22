@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <!-- </p> -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/riya-kumari-b439911b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RiyaKumari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13609858/riya-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="riya-kumari" height="30" width="40" /></a>
